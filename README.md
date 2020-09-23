@@ -29,5 +29,7 @@
 
 🤓 `$ npx @mdugue/fyi`
 
+👔 [linkedin](https://www.linkedin.com/in/manuel-dugue/)
+
 <br/>
 
