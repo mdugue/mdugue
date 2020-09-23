@@ -1,3 +1,7 @@
+
+<br/>
+
+
 Hi there 👋, it's Manuel
 
 
@@ -20,8 +24,6 @@ Hi there 👋, it's Manuel
 🌍 [manuel.fyi/](https://manuel.fyi/)
 
 🤓 `$ npx @mdugue/fyi`
-
-<br/>
 
 <br/>
 
