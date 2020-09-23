@@ -1,7 +1,7 @@
-#### Hi there 👋, it's Manuel
+Hi there 👋, it's Manuel
 
 
----
+<br/>
 
 <br/>
 
@@ -12,6 +12,10 @@
 *consumers, experts, bots, …*
 
 <br/>
+
+<br/>
+
+---
 
 🌍 [manuel.fyi/](https://manuel.fyi/)
 
