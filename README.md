@@ -25,11 +25,6 @@
 
 ---
 
-🌍 [manuel.fyi/](https://manuel.fyi/)
-
-👔 [linkedin](https://www.linkedin.com/in/manuel-dugue/)
-
-🤓 `$ npx @mdugue/fyi`
-
+🌍 [manuel.fyi](https://manuel.fyi) – 👔 [linkedin](https://www.linkedin.com/in/manuel-dugue/) – 🤓 `$ npx @mdugue/fyi`
 <br/>
 
