@@ -2,7 +2,7 @@
 <br/>
 
 
-Hi there 👋, it's Manuel
+*Hi there 👋, it's Manuel*
 
 
 <br/>
@@ -11,9 +11,13 @@ Hi there 👋, it's Manuel
 
 *– since 2008 –*
 
-### **handcrafting web experiences for everybody**
+**handcrafting web experiences for everybody**
 
 *consumers, experts, bots, …*
+
+<br/>
+
+<br/>
 
 <br/>
 
